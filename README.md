@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋 I'm Ramia
 
-<!--
-**Ramia-Ahmed/Ramia-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**E-Commerce Data & Insights Analyst** based in Dhaka, Bangladesh, building toward a remote Data & Insights Analyst role.
 
-Here are some ideas to get you started:
+I turn raw e-commerce data into clear, actionable insights — from customer segmentation to funnel and marketing performance analysis. My focus is B2C e-commerce: understanding customer behavior, retention, and what drives revenue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tools I work with:** SQL · DuckDB · Power BI · Excel · Python (pandas)
+
+📊 **What you'll find in my repos:**
+- End-to-end analysis projects (background → data structure → insights → recommendations → caveats)
+- SQL-driven analytics on real and synthetic e-commerce datasets
+- Dashboards built in Power BI for stakeholder-ready reporting
+
+📌 **Featured projects:**
+- [Olist Product Analysis](link) — customer/product analysis on the Olist Brazilian e-commerce dataset
+- [Cart Abandonment Funnel Analysis](link) — funnel analysis on Retail Rocket data using DuckDB + SQL + Power BI
+- [CAC & LTV Practice](link) — synthetic dataset practice for acquisition cost and lifetime value metrics
+
+🌱 **Currently learning:** Statistics for analytics
+
+📫 **Let's connect:** [LinkedIn]([link](https://www.linkedin.com/in/ramiaahmed/)) · Open to remote Data Analyst opportunities
