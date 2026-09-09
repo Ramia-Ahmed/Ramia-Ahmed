@@ -5,7 +5,7 @@
 I turn raw e-commerce data into clear, actionable insights — from customer segmentation to funnel and marketing performance analysis. My focus is B2C e-commerce: understanding customer behavior, retention, and what drives revenue.
 
 🔧 **Tools I work with:** SQL · DuckDB · Power BI · Excel · Python (pandas)
-
+<img src="mysql.svg" alt="MySQL">
 📊 **What you'll find in my repos:**
 - End-to-end analysis projects (background → data structure → insights → recommendations → caveats)
 - SQL-driven analytics on real and synthetic e-commerce datasets
