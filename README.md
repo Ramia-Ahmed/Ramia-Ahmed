@@ -18,4 +18,4 @@ I turn raw e-commerce data into clear, actionable insights — from customer seg
 
 🌱 **Currently learning:** Statistics for analytics
 
-📫 **Let's connect:** [LinkedIn]([link](https://www.linkedin.com/in/ramiaahmed/)) · Open to remote Data Analyst opportunities
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ramiaahmed/) · Open to remote Data Analyst opportunities
