@@ -4,7 +4,7 @@
 
 I turn raw e-commerce data into clear, actionable insights — from customer segmentation to funnel and marketing performance analysis. My focus is B2C e-commerce: understanding customer behavior, retention, and what drives revenue.
 
-🔧 **Tools I work with:
+🔧 **Tools I work with:**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,4 +31,4 @@ I turn raw e-commerce data into clear, actionable insights — from customer seg
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ramiaahmed/) · Open to remote Data Analyst opportunities
 
-👩‍💻 **Don't forget to vist my portfolio:** [Portfolio](https://ramia-ahmed.github.io/)
+👩‍💻 **Don't forget to vist my [portfolio](https://ramia-ahmed.github.io/)!**
