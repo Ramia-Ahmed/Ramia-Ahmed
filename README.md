@@ -23,7 +23,7 @@ I turn raw e-commerce data into clear, actionable insights — from customer seg
 - Dashboards built in Power BI for stakeholder-ready reporting
 
 📌 **Featured projects:**
-- [Customer Segmentation and Spend Analysis](https://github.com/Ramia-Ahmed/Customer-Segmentation-and-Spend-Analysis) — customer/product analysis on the Olist Brazilian e-commerce dataset
+- [Customer Segmentation and Spend Analysis](https://github.com/Ramia-Ahmed/Customer-Segmentation-and-Spend-Analysis) — customer analysis on the Olist Brazilian e-commerce dataset
 - [Cart Abandonment Funnel Analysis](https://github.com/Ramia-Ahmed/Cart-Abandonment-Funnel-Analysis) — funnel analysis on Retail Rocket data using DuckDB + SQL + Power BI
 - [CAC and LTV Ratio Analysis](https://github.com/Ramia-Ahmed/CAC-and-LTV-Ratio-Analysis) — synthetic dataset practice for acquisition cost and lifetime value metrics
 
