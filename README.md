@@ -30,4 +30,4 @@ I turn raw e-commerce data into clear, actionable insights — from customer seg
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ramiaahmed/) · Open to remote Data Analyst opportunities
 
-👩‍💻 **Don't forget to vist my [portfolio](https://ramia-ahmed.github.io/)!**
+👩‍💻 **Don't forget to visit my [portfolio](https://ramia-ahmed.github.io/)!**
