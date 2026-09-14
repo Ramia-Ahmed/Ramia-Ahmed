@@ -26,7 +26,7 @@ I turn raw e-commerce data into clear, actionable insights — from customer seg
 - [Cart Abandonment Funnel Analysis](https://github.com/Ramia-Ahmed/Cart-Abandonment-Funnel-Analysis) — funnel analysis on Retail Rocket data using DuckDB + SQL + Power BI
 - [CAC and LTV Ratio Analysis](https://github.com/Ramia-Ahmed/CAC-and-LTV-Ratio-Analysis) — synthetic dataset practice for acquisition cost and lifetime value metrics
 
-🌱 **Currently learning:** Statistics for analytics
+🌱 **Currently learning:** A/B Testing for analytics
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ramiaahmed/) · Open to remote Data Analyst opportunities
 
